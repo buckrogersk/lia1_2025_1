@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+pdfplumber
+Pillow
+requests
+folium
+streamlit-folium
+shapely
+pyproj
+pandas
+llama-cpp-python
